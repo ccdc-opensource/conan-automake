@@ -14,3 +14,4 @@ extends:
     destination_repository: ccdc-3rdparty-conan
     build_types:
       - Release
+    conan_logging_level: info
