@@ -14,3 +14,4 @@ extends:
     destination_repository: ccdc-3rdparty-conan
     build_types:
       - Release
+    windows_bash_path: C:\msys64\bin\bash.exe
